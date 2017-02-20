@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\SpeedKey.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\SpeedKey.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\SpeedKey.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\LeagueSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\SharpDX.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\LeagueSharp.Data.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\clipper_library.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Debug\clipper_library.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\x86\Debug\SpeedKey.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\x86\Debug\SpeedKey.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\x86\Debug\SpeedKey.pdb

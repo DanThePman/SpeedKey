@@ -1,0 +1,12 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\SpeedKey.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\SpeedKey.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\SpeedKey.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\EloBuddy.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\EloBuddy.SDK.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\SharpDX.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\Release\SpeedKey.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\Release\SpeedKey.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpeedKey\SpeedKey\obj\Release\SpeedKey.pdb
